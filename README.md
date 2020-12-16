@@ -1,4 +1,6 @@
 # CommonComputerProject
+[![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/ha-mulan/CommonComputerProject)
+
 http://34.64.121.223?input=13195    
 input의 소인수중 가장 큰 수를 브라우저에 출력하여 보여준다(0<=input<=1000000)  
 * primeFactor.py  
